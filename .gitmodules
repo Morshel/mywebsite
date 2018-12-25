@@ -1,0 +1,7 @@
+[submodule "site/themes/creative"]
+	path = site/themes/creative
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+[submodule "site/public"]
+	path = site/public
+	url = git@github.com:morshel/morshel.github.io.git
+	branch = master
