@@ -5,3 +5,7 @@
 	path = site/public
 	url = git@github.com:morshel/morshel.github.io.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:Morshel/morshel.github.io
+	branch = master
